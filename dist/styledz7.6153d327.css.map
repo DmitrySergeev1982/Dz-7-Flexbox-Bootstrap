@@ -1,0 +1,1 @@
+{"version":3,"sources":["css/styledz7.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styledz7.6153d327.css","sourceRoot":"..","sourcesContent":["* {\r\n    margin: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\n.col-4 {\r\n    background: red;\r\n}\r\n\r\n"]}
